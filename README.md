@@ -1,2 +1,2 @@
-# shopping-behavior-2
+# ShoppingBehavior
 analyzing the shopping behavior of consumers

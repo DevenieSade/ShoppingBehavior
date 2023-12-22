@@ -15,3 +15,6 @@ Step 3. After completion of our data cleaning, the dataset is analysis to determ
 
 
 
+We opted to employ various packages for executing the Machine Learning modeling process. Initially, we performed data pre-processing, addressing missing data through imputation and applying the necessary dummy encoding.
+
+Acquiring additional data on European ski resorts and exploring more advanced grouping algorithms constitutes a valuable initial step. While the existing dataset serves as a solid proof of concept and starting point, it would be intriguing to observe how it performs with larger datasets.
